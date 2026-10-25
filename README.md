@@ -5,9 +5,12 @@
        <p align="center">
 <img width="150" alt="image" src="https://static.wikia.nocookie.net/8b70edc2-17af-4b37-93d2-2c9c816602a4/scale-to-width/755" />
        <p align="center">
-<img width="800" alt="image" src="https://64.media.tumblr.com/e50e7e368840fe9ffd1b0ce9261272ff/775103786bc68010-43/s1280x1920/7ca677b24460e124ed53b69eb6bef84e0dbfaafc.pnj" />
+<img width="800" alt="image" src="https://64.media.tumblr.com/6c8a55fa1efc3b84737d92e5a085a66d/cca152ec637b4d11-cb/s400x600/c0f2508c96cb55ec194f8baefffd5bc96f15dbc7.pnj" />
+         <p align="center">
+  ${\textsf{\color{#0073CF} my favorite color ok?
+  }}$
   <div align="center">
 <br>
-<img width="80" alt="image" src="https://64.media.tumblr.com/f4dc6b72dc0d07d3ce2a10a64bf86bf3/d7252bc1c32a3c52-79/s400x600/3d1eb5d1a0e4cc0d29c220fcccf52aec65bc7878.pnj" />
-<img width="80" alt="image" src="https://static.wikia.nocookie.net/325612be-caec-4e18-9642-3ebb8e94dd22/scale-to-width/755" />
-<img width="80" alt="image" src="https://64.media.tumblr.com/3aa71f04847dd15c0af14516f6ae2d38/71946bf012dbb7fc-3a/s400x600/923fc299cd156dca150da3c6a4b729ed61af8dc3.pnj" />
+<img width="100" alt="image" src="https://64.media.tumblr.com/7ee5bbefcced43e8353ed11540fd0ea4/b71a6f05aae197fe-a7/s100x200/e84d67030d6fa1b0d7326147fe980842f3f172b3.pnj" />
+<img width="80" alt="image" src="https://64.media.tumblr.com/2e8869ed93470388a77e9c6ee37405de/4c01d58d3c5ca89d-a1/s250x400/0ef3c0a9090f4affbf276796b1b294a5752aefde.pnj" />
+<img width="100" alt="image" src="https://64.media.tumblr.com/8f3d455889441ecf0ed86c666e222996/b71a6f05aae197fe-e1/s100x200/9a6c8b270c4da0569af5207182b45666f30c1787.pnj" />
